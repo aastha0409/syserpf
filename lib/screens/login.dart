@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:syserp/animation/FadeAnimation.dart';
 
-
 class LoginPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
