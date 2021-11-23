@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "368965766004",
+    "project_id": "syserpf",
+    "storage_bucket": "syserpf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368965766004:android:c7091c83a256b78e077a21",
+        "android_client_info": {
+          "package_name": "com.example.login_page_day_23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368965766004-k7otq3clqsbegsgbc2qoml2tf8njkt3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_page_day_23",
+            "certificate_hash": "3e58b491d5ea5dab66fd48bafdd76d6abf44af61"
+          }
+        },
+        {
+          "client_id": "368965766004-2rio50v76vjstmugrse05369ihjj174d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBazKQin_7KUm4fpUdeA9tUmEgHnHjrOy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368965766004-2rio50v76vjstmugrse05369ihjj174d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
